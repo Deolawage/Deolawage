@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deolawage
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning Frontend website development.
-- 💞️ I’m looking for someone to put me through Github.
+- 💞️ I’m looking forward to meet and work with anyone available.
 - 📫 This is my email delightageloye@gmail.com 
 
 <!---
