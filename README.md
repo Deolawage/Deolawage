@@ -3,7 +3,7 @@
 - Developer by Day. Builder by night. Always learning.
 - Self-taught and on a mission to ship great software.
 - Presently working through [The Odin Project](https://www.theodinproject.com/) — a free, open-source full-stack curriculum. 
--🌱 currently progressing through the **Foundations** path, building real projects from scratch.
+-🌱Completed The Odin Project's Foundations path — now progressing through Full Stack JavaScript. Building real, deployed projects from scratch.
 
 ## 🛠️ Skills So Far
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -11,6 +11,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux%20(Ubuntu)-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ## 🎯 Goals
 
