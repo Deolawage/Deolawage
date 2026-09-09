@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deolawage
-- 👀 Aspiring Full-Stack Developer
+- Building toward Full Stack
 - Developer by Day. Builder by night. Always learning.
 - Self-taught and on a mission to ship great software.
 - Presently working through [The Odin Project](https://www.theodinproject.com/) — a free, open-source full-stack curriculum. 
