@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Deolawage
-- Building toward Full Stack
+-  Self-taught and on a mission to ship great software.
 - Developer by Day. Builder by night. Always learning.
-- Self-taught and on a mission to ship great software.
-- Presently working through [The Odin Project](https://www.theodinproject.com/) — a free, open-source full-stack curriculum. 
--🌱Completed The Odin Project's Foundations path — now progressing through Full Stack JavaScript. Building real, deployed projects from scratch.
+- ✅ Completed The Odin Project's Foundations path 
+- 🌱 Now progressing through Full Stack JavaScript — building real, deployed projects from scratch
 
 ## 🛠️ Skills So Far
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
